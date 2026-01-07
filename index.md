@@ -21,8 +21,8 @@ title: "Home"
 
 <section id="about" class="section">
   <div class="about-container">
-    <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
-         alt="Michael Shoemaker"
+    <img src="{{ '/assets/images/Bewerbungsbild.jpg' | relative_url }}"
+         alt="Yvan Noubom"
          class="profile-pic">
 
     <div class="about-text">
